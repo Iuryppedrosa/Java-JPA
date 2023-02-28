@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+/Users/iurypedrosa/eclipse-workspace/jpa-youtube/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3938549901.index
+3905949931.index
+1479191967.index
+1251664044.index
+2464977092.index
+4003690119.index
+2548182413.index
+2241417925.index
+1160331348.index
+2516331071.index
+3757241140.index
+1049981545.index
+749599831.index
+2404369461.index
+4108381854.index
+2545511360.index
